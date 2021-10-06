@@ -1,16 +1,47 @@
-### Hi there 👋
+# hi there!  welcome to my git! 👋
 
-<!--
-**sergey-realm18/sergey-realm18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ps still I have only graduation project 😞
+
+### > tech stack
+
+name | sergey |
+
+role | analyst |
+
+language | python |
+
+databases | clickhouse, vertica |
+
+ml libs | sklearn, catboost, xgboost, lightgbm,  tensorflow |
+
+visualization | matplotlib, plotly, seaborn, tableau, power bi |
+
+other | pandas, numpy, airflow, excel 🤓  |
+
+skills | ab tests, ml, probability theory and statistics  |
+
+### > <img src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" width="10" height="20" />
+
+
+# Connect with me
+
+<a href="https://www.linkedin.com/in/sergey-krylov-16154a212/">
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+<a href="https://www.facebook.com/serzh.krylov">
+<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+
+</pre>
+
+<h3 align="center">repositories</h2>
+
+
+<p width="100%" align="center">
+<a align="left" href="https://github.com/sergey-realm18/churn_by_twitter" title="Churn prediction by twitts - graduation project">
+<img align="left" height="115" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9d0fWWrlfpC-4l__jliCw_COiQXFxDLvNw&usqp=CAU"></a>
+<h4 align="left" > <samp> Финальный проект - "Предсказание оттока пользователей по сообщениям в микроблоге" </samp>
+</h4>
+<br>
+<br>
