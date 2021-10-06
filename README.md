@@ -2,7 +2,6 @@
 
 
 
-ps still I have only graduation project 😞
 
 ### > tech stack
 
@@ -35,7 +34,13 @@ ps still I have only graduation project 😞
 
 </pre>
 
+<br>
+
+
+
 <h3 align="center">repositories</h2>
+
+ps still I have only graduation project 😞
 
 
 <p width="100%" align="center">
