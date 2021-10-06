@@ -18,7 +18,7 @@ ps still I have only graduation project 😞
 
 <b>visualization</b> | matplotlib, plotly, seaborn, tableau, power bi |
 
-<b>other</b> | pandas, numpy, airflow, excel 🤓  |
+<b>other</b> | pandas, numpy, git, airflow, excel 🤓  |
 
 <b>skills</b> | ab tests, ml, probability theory and statistics  |
 
