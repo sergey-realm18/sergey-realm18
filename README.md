@@ -6,21 +6,21 @@ ps still I have only graduation project 😞
 
 ### > tech stack
 
-name | sergey |
+<b>name</b> | sergey |
 
-role | analyst |
+<b>role</b> | analyst |
 
-language | python |
+<b>language</b> | python |
 
-databases | clickhouse, vertica |
+<b>databases</b> | clickhouse, vertica |
 
-ml libs | sklearn, catboost, xgboost, lightgbm,  tensorflow |
+<b>ml libs</b> | sklearn, catboost, xgboost, lightgbm,  tensorflow |
 
-visualization | matplotlib, plotly, seaborn, tableau, power bi |
+<b>visualization</b> | matplotlib, plotly, seaborn, tableau, power bi |
 
-other | pandas, numpy, airflow, excel 🤓  |
+<b>other</b> | pandas, numpy, airflow, excel 🤓  |
 
-skills | ab tests, ml, probability theory and statistics  |
+<b>skills</b> | ab tests, ml, probability theory and statistics  |
 
 ### > <img src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" width="10" height="20" />
 
