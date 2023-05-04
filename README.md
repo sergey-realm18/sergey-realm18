@@ -7,7 +7,7 @@
 
 <b>name</b> | sergey |
 
-<b>role</b> | analyst |
+<b>role</b> | data analyst |
 
 <b>language</b> | python |
 
