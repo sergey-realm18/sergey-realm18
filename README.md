@@ -9,7 +9,7 @@
 
 <b>role</b> | data analyst |
 
-<b>language</b> | python |
+<b>language</b> | python, sql |
 
 <b>databases</b> | clickhouse, vertica |
 
